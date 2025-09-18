@@ -7,3 +7,5 @@
 +    { name: t('pricing'), href: '#precos' },
      { name: t('support'), href: '#' }
    ];
+
+export default quickLinks
